@@ -18,8 +18,8 @@ Actually:
 [![img_contact](./img/globe-light.svg)](https://nicolas-chapron.com#gh-light-mode-only)
 [![img_contact](./img/globe-dark.svg)](https://nicolas-chapron.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/twitter-light.svg)](https://nicolas-chapron.com#gh-light-mode-only)
-[![img_contact](./img/twitter-dark.svg)](https://nicolas-chapron.com#gh-dark-mode-only)
+[![img_contact](./img/twitter-light.svg)](https://twitter.com/np58yh95c#gh-light-mode-only)
+[![img_contact](./img/twitter-dark.svg)](https://twitter.com/np58yh95c#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/nicolas-chapron/#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nicolas-chapron/#gh-dark-mode-only)
